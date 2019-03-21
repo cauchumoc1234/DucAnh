@@ -1,2 +1,1 @@
-duc anh dep trai
-duc anh test
+sdasdasdasd:!chmod +w %:!chmod +sw %
