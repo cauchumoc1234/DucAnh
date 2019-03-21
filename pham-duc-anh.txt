@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-duc anh dep trai
-the nay la sao
-=======
-hihi
-duc anh dep trai hown
-nhu the nay la the nao
->>>>>>> f2ccafe1bfef800d3c0a73f5f6dfd963af2f8451
